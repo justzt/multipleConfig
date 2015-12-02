@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  TestMultiXCConfig
+//
+//  Created by zt on 15/11/27.
+//  Copyright © 2015年 justzt. All rights reserved.
+//
+#include "Common.xcconfig"
+
+scheme = Enterprise
+ProductDisplayName = 企业版
+BundleId = com.dasouche.release

@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  TestMultiXCConfig
+//
+//  Created by zt on 15/11/27.
+//  Copyright © 2015年 justzt. All rights reserved.
+//
+#include "Common.xcconfig"
+
+scheme = JieHe
+ProductDisplayName = JieHe
+BundleId = com.souche.JieHe

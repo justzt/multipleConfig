@@ -1,0 +1,13 @@
+//
+//  Debug.xcconfig
+//  TestMultiXCConfig
+//
+//  Created by zt on 15/11/27.
+//  Copyright © 2015年 justzt. All rights reserved.
+//
+#include "Common.xcconfig"
+
+
+scheme = Debug
+ProductDisplayName = Debug
+BundleId = com.souche.test

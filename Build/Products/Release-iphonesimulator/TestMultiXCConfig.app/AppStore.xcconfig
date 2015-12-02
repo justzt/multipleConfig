@@ -1,0 +1,9 @@
+//
+//  Debug.xcconfig
+//  TestMultiXCConfig
+//
+//  Created by zt on 15/11/27.
+//  Copyright © 2015年 justzt. All rights reserved.
+//
+ProductDisplayName = AppStore
+BundleId = com.souche.maicheshiqi
